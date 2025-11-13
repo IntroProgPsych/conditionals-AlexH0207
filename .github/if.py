@@ -1,0 +1,5 @@
+age = int(input("Type your age:"))
+if age>=18: print("You are an adult.")
+elif age>100: print("Youare nto human!!!")
+elif age<0: print("You do not exist!!!")
+else: print("You are a child.")
