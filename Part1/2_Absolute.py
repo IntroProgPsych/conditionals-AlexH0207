@@ -17,3 +17,6 @@
 
 # Write your code here:
 
+n = int(input("Please type in a number"))
+if n<0: print (f"The absolute value of this number is {n*-1}.")
+else: print (f"The absolute value of this number is {n}.")

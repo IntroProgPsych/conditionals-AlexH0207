@@ -13,3 +13,7 @@
 # You are of age!
 
 # Write your code here:
+
+age = int(input("Type your age:"))
+if age>=18: print("You are of age!")
+else: print("You are not of age!")
